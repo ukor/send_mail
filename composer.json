@@ -1,0 +1,21 @@
+{
+    "name": "ukorjidechi/send_mail",
+    "description": "A swiftmailer wrapper",
+    "keywords": ["PHP mail", "swift mailer", "mail", "send email", "send mail"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ukor Jidechi Ekundayo",
+            "email": "ukorjidechi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0",
+        "swiftmailer/swiftmail" : "~6.0.*"
+    },
+    "autoload": {
+        "psr-4": { "ukorJidechi\\mail\\": "src/" }
+    }
+}
