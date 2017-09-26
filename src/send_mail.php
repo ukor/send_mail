@@ -1,9 +1,9 @@
 <?php
 /**
- * Created with PhpStorm by proctor.
  * @author Ukor Jidechi Ekundayo << http://ukorjidechi.com || ukorjidechi@gmail.com>>.
- * Date: 8/10/17
- * Time: 3:51 AM
+ * Date: 8/10/17, Time: 3:51 AM
+ *
+ * The default settings here are that of Google (gmail) SMPT sever. Change accordingly.
  */
 
 namespace ukorJidechi\mail;
